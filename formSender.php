@@ -20,4 +20,4 @@ form action="formReceiver.php" method="post">
 
     <input type="submit" value="Envoyez">
 
-</form>
+</form> 
